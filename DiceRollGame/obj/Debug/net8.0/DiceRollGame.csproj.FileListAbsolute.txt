@@ -1,0 +1,14 @@
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+D:\Projects\learn\C#\DiceRollGame\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
